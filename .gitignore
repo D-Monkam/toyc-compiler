@@ -1,0 +1,5 @@
+build/
+.vscode/
+*.o
+*.ll
+toyc
