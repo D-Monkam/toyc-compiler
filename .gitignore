@@ -1,5 +1,9 @@
 build/
-.vscode/
+cmake-build-debug/
 *.o
-*.ll
+*.out
+*.exe
+*.dSYM/
 toyc
+my_program
+.DS_Store
